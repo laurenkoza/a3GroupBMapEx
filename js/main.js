@@ -16,7 +16,7 @@
 			map: map,
 			title: "Paddy's secret hut"
 		});
-	}
+	} 
 
 
 
